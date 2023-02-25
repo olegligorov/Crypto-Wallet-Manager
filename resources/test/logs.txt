@@ -1,0 +1,2 @@
+java.lang.IllegalStateException: test
+	at bg.sofia.uni.fmi.mjt.cryptowalletmanager.Main.main(Main.java:10)
